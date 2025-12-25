@@ -137,6 +137,3 @@ You can use the following example inputs from the model bundle:
 - R&D Spend: 91992.39, Administration: 135495.07, Marketing Spend: 252664.93, State: California
 - R&D Spend: 38558.51, Administration: 82982.09, Marketing Spend: 174999.3, State: California
 - R&D Spend: 61994.48, Administration: 115641.28, Marketing Spend: 91131.24, State: Florida
-
-
-
