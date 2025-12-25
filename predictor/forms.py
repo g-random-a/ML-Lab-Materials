@@ -46,3 +46,4 @@ class ProfitPredictionForm(forms.Form):
     )
 
 
+
