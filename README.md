@@ -8,6 +8,7 @@ A Django web application that demonstrates a machine learning model for predicti
 - 🤖 Machine learning model integration (scikit-learn)
 - 💰 Real-time profit predictions
 
+
 ## Model Information
 
 - **Model Type**: scikit-learn Pipeline (OneHotEncoder + LinearRegression)
